@@ -1,0 +1,1 @@
+This is a new file just to create a conflict between the remote repo and the local repo
